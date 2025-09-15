@@ -4,4 +4,4 @@ Este repositório está em constante evolução. Abaixo estão as principais atu
 
 - **CRUD Completo**: Implementações das operações de Create, Read, Update e Delete.
  - **CREATE**: Adição de novos registros ao banco de dados.
- - **READ**: COnsulta os dados gravados ao banco.
+ - **READ**: Consulta os dados gravados ao banco.

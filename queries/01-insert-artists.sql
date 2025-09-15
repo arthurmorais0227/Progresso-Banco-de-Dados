@@ -5,7 +5,7 @@ CREATE TABLE artistas (
     nome VARCHAR(100) NOT NULL,
     tipo VARCHAR(20) NOT NULL,
     membros INTEGER,
-    genero_musical VARCHA(30),
+    genero_musical VARCHAR(30),
     ano_lancamento INTEGER,
     pais_origem VARCHAR(35),
     musica_famosa VARCHAR(50),

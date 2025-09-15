@@ -11,3 +11,8 @@ CREATE TABLE artistas (
     musica_famosa VARCHAR(50),
     ativo BOOLEAN   
 );  
+
+INSERT INTO artistas (nome, tipo, membros, genero_musical, ano_lancamento, pais_origem, musica_famosa, ativo)
+VALUES
+('Adele', 'Solo', 1, 'Pop', 2006, 'Reino Unido', 'Sky Fall', TRUE),
+('21 Pilots', 'Banda', '2', 'Rock Alternativo', 2009, 'Estados Unidos', 'Stressed Out', TRUE)

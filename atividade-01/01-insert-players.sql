@@ -7,7 +7,7 @@ CREATE TABLE players (
     ativo BOOLEAN  
 ); 
 
-INSERT INTO artistas (nome, idade, clube, nacionalidade, ativo)
+INSERT INTO players (nome, idade, clube, nacionalidade, ativo)
 VALUES
 ('Lionel Messi', 38, 'Inter Miami', 'Argentina', TRUE),
 ('Cristiano Ronaldo', 40, 'Al-Nassr', 'Portugal', TRUE),
